@@ -72,14 +72,14 @@ Estas variables cuantifican la popularidad y la interacción de los usuarios con
 - **lat**: Latitud del estado geográfico.  
 - **lon**: Longitud del estado geográfico.  
 
-### 2.3 Variables de fecha y tiempo <a name="variables-de-fecha"></a
+### 2.3 Variables de fecha y tiempo <a name="variables-de-fecha"></a>
 
 Estas variables permiten realizar análisis temporales y de tendencias:
 
 - **trending_date**: Fecha en que el video fue registrado como tendencia (formato `YY.DD.MM`).  
 - **publish_time**: Fecha y hora de publicación original del video (formato ISO 8601).  
 
-### 2.4 Variable geoespacial  <a name="variables-geoespacial"></a
+### 2.4 Variable geoespacial  <a name="variables-geoespacial"></a>
 
 Esta variable permite representar y visualizar los datos sobre un mapa:
 
